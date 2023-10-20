@@ -1,0 +1,506 @@
+[
+  {
+    "id": 0,
+    "name": "The DJ",
+    "type": "Epic",
+    "favorite": false,
+    "img": "/thedj.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 1,
+    "name": "Assassin",
+    "type": "Common",
+    "favorite": false,
+    "img": "/assassin.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Neon Guy",
+    "type": "Rare",
+    "favorite": false,
+    "img": "/neonguy.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Assassin",
+    "type": "Common",
+    "favorite": false,
+    "img": "/assassin.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mafia England",
+    "type": "Legendary",
+    "favorite": false,
+    "img": "/mafiaEngland.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Bassketball Girl",
+    "type": "Mythic",
+    "favorite": false,
+    "img": "/basketballGirl.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Bassketball Girl",
+    "type": "Mythic",
+    "favorite": false,
+    "img": "/basketballGirl.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "The DJ",
+    "type": "Epic",
+    "favorite": false,
+    "img": "/thedj.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Bassketball Girl",
+    "type": "Mythic",
+    "favorite": false,
+    "img": "/basketballGirl.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Assassin",
+    "type": "Common",
+    "favorite": false,
+    "img": "/assassin.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Neon Guy",
+    "type": "Rare",
+    "favorite": false,
+    "img": "/neonguy.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Mafia England",
+    "type": "Legendary",
+    "favorite": false,
+    "img": "/mafiaEngland.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Neon Guy",
+    "type": "Rare",
+    "favorite": false,
+    "img": "/neonguy.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 13,
+    "name": "The DJ",
+    "type": "Epic",
+    "favorite": false,
+    "img": "/thedj.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Assassin",
+    "type": "Common",
+    "favorite": false,
+    "img": "/assassin.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Neon Guy",
+    "type": "Rare",
+    "favorite": false,
+    "img": "/neonguy.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Assassin",
+    "type": "Common",
+    "favorite": false,
+    "img": "/assassin.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Mafia England",
+    "type": "Legendary",
+    "favorite": false,
+    "img": "/mafiaEngland.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Bassketball Girl",
+    "type": "Mythic",
+    "favorite": false,
+    "img": "/basketballGirl.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 19,
+    "name": "The DJ",
+    "type": "Epic",
+    "favorite": false,
+    "img": "/thedj.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Bassketball Girl",
+    "type": "Mythic",
+    "favorite": false,
+    "img": "/basketballGirl.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 21,
+    "name": "The DJ",
+    "type": "Epic",
+    "favorite": false,
+    "img": "/thedj.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Assassin",
+    "type": "Common",
+    "favorite": false,
+    "img": "/assassin.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Neon Guy",
+    "type": "Rare",
+    "favorite": false,
+    "img": "/neonguy.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Assassin",
+    "type": "Common",
+    "favorite": false,
+    "img": "/assassin.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Mafia England",
+    "type": "Legendary",
+    "favorite": false,
+    "img": "/mafiaEngland.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Bassketball Girl",
+    "type": "Mythic",
+    "favorite": false,
+    "img": "/basketballGirl.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Bassketball Girl",
+    "type": "Mythic",
+    "favorite": false,
+    "img": "/basketballGirl.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 28,
+    "name": "The DJ",
+    "type": "Epic",
+    "favorite": false,
+    "img": "/thedj.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Bassketball Girl",
+    "type": "Mythic",
+    "favorite": false,
+    "img": "/basketballGirl.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Assassin",
+    "type": "Common",
+    "favorite": false,
+    "img": "/assassin.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Neon Guy",
+    "type": "Rare",
+    "favorite": false,
+    "img": "/neonguy.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Mafia England",
+    "type": "Legendary",
+    "favorite": false,
+    "img": "/mafiaEngland.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Neon Guy",
+    "type": "Rare",
+    "favorite": false,
+    "img": "/neonguy.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 34,
+    "name": "The DJ",
+    "type": "Epic",
+    "favorite": false,
+    "img": "/thedj.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Assassin",
+    "type": "Common",
+    "favorite": false,
+    "img": "/assassin.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Neon Guy",
+    "type": "Rare",
+    "favorite": false,
+    "img": "/neonguy.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Assassin",
+    "type": "Common",
+    "favorite": false,
+    "img": "/assassin.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Mafia England",
+    "type": "Legendary",
+    "favorite": false,
+    "img": "/mafiaEngland.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Bassketball Girl",
+    "type": "Mythic",
+    "favorite": false,
+    "img": "/basketballGirl.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 40,
+    "name": "The DJ",
+    "type": "Epic",
+    "favorite": false,
+    "img": "/thedj.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Bassketball Girl",
+    "type": "Mythic",
+    "favorite": false,
+    "img": "/basketballGirl.svg",
+    "price": 2.75,
+    "artist": {
+      "artistName": "Ghozali_Ghozalu",
+      "artistImg": "/artist-image.jpg"
+    }
+  }
+]

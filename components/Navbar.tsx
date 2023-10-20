@@ -21,9 +21,14 @@ const Navbar = () => {
             title="Connect Wallet"
             className="common-button connect-button"
           />
-          <button>
-            <Image src="/language.svg" alt="language" width={24} height={24} />
-            <Image src="/language.svg" alt="language" width={24} height={24} />
+          <button className="flex items-center justify-center">
+            <Image
+              src="/icon-language.svg"
+              alt="language"
+              width={24}
+              height={24}
+            />
+            <Image src="/icon-down.png" alt="language" width={24} height={24} />
           </button>
         </div>
       </div>

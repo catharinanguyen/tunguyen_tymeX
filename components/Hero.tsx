@@ -3,7 +3,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className="-mt-[84px]">
+    <section className="-mt-20">
       <Image src="/hero-image.jpg" alt="hero" width={1920} height={804}></Image>
     </section>
   );
